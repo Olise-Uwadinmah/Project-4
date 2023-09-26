@@ -1,0 +1,11 @@
+.grid{
+    display: grid;
+    width: 100%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+    gap: 5;
+    background-color: red;
+}
+.card{
+    background-color: white;
+}
